@@ -1,16 +1,16 @@
 # Devery Wallet
-Devery Wallet is an unique marketplace for luxury goods with proven ownership track. This solution helps to provide clear product history.
+Devery Wallet is an unique marketplace for luxury goods with proven ownership track. This solution creates an great opportunity and opens a new market for luxury used products with clear history.
 
 Video presentation: https://youtu.be/xF1MbdUn3Qo
 
 ## Advantages
-- Creates a new huge market for second-hand luxury goods (old wines, jewerly etc.)
+- Creates a new huge market for used luxury goods (old wines, jewerly etc.)
 - Devery protocol adds digital rights for luxury goods (thiefs could have big challenges to sell them without changing digital ownership)
 - Provide proven ownership track and guarantess uniqueness
 
 # User story
 1. The first product user scans a product and register an ownership.
-2. When user deciced to sell a product, s/he press a button and this product will automatically appers in ,arketplace. All product info will be takes from Devery Registry
+2. When user decided to sell a product, s/he press a button and this product will automatically appers in ,arketplace. All product info will be takes from Devery Registry
 3. Potential buyer could check the uniqueness of product. Selling the product, current sellter transfer digital ownership.
 4. New product user get a proudct and clear ownership track record which is a significant for many buyers!
 
