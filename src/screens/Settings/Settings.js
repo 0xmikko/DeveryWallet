@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import { Navigation } from 'react-native-navigation';
 import { connect } from 'react-redux';
 import { View, StyleSheet } from 'react-native';
 import { Text, Button } from 'react-native-elements';
@@ -39,6 +40,7 @@ class SettingsScreen extends Component {
         <Text h4 style={styles.header4}>Import Private Key</Text>
         <DefaultInput style={styles.input} onChangeText={this.handleInputPrivateKey}></DefaultInput>
         <Button title="Import" onPress={this.handleImportSubmit}/>
+        <Button title="Close" type="outline" onPress={() => Navigation.dismissModal(this.props.componentId)}/>
   
       </View>
     );

@@ -26,10 +26,10 @@ const WithCTA = () => (
       {
         title: 'Say goodbye to contrafact goods',
         subtitle: 'Devery protocol guarantees that you will buy original item on second hand market',
-        backgroundColor: '#5e92f3',
+        backgroundColor: '#003c8f',
         image: (
           <Icon
-            name="paper-plane-o"
+            name="settings"
             size={100}
             color="white"
           />
@@ -38,9 +38,9 @@ const WithCTA = () => (
       {
         title: 'Easy to buy, easy to sell',
         subtitle: 'Sell unused items with one swipe!',
-        backgroundColor: '#1565c0',
+        backgroundColor: '#003c8f',
         image: (
-          <Icon name="bell-o"  size={100} color="white" />
+          <Icon name="settings"  size={100} color="white" />
         ),
       },
       {
@@ -59,7 +59,7 @@ const WithCTA = () => (
         ),
         backgroundColor: '#003c8f',
         image: (
-          <Icon name="rocket" size={100} color="white" />
+          <Icon name="settings" size={100} color="white" />
         ),
       },
     ]}
