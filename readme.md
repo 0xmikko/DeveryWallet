@@ -14,6 +14,11 @@ Video presentation: https://youtu.be/xF1MbdUn3Qo
 3. Potential buyer could check the uniqueness of product. Selling the product, current sellter transfer digital ownership.
 4. New product user get a proudct and clear ownership track record which is a significant for many buyers!
 
+<img width="382" alt="Screenshot 2019-06-17 at 02 11 39" src="https://user-images.githubusercontent.com/26343374/59570741-852f8b80-90a5-11e9-91cb-0c41a7786aba.png">
+<img width="375" alt="Screenshot 2019-06-17 at 02 11 50" src="https://user-images.githubusercontent.com/26343374/59570742-852f8b80-90a5-11e9-868a-4a809e055061.png">
+<img width="380" alt="Screenshot 2019-06-17 at 02 12 04" src="https://user-images.githubusercontent.com/26343374/59570743-85c82200-90a5-11e9-88ef-4f16aeb8bf1a.png">
+<img width="376" alt="Screenshot 2019-06-17 at 02 12 15" src="https://user-images.githubusercontent.com/26343374/59570744-85c82200-90a5-11e9-9619-d4a30940ee40.png">
+![Simulator Screen Shot - iPhone X - 2019-06-17 at 01 22 07](https://user-images.githubusercontent.com/26343374/59570745-85c82200-90a5-11e9-8b7c-70b4ce0faf64.png)
 
 # How to install
 The program is written for React-Native framework and was tested on iOS devices (Android should work correct also).
